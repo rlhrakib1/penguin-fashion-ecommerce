@@ -1,0 +1,7 @@
+.button-bg{
+    color: white;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+.button-bg:hover{
+    background: #FABE4C;
+}
